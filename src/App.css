@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  font-weight: 500;
+  font-size: larger;
+  border:2px solid;
+  background-color: red;
+  color: aliceblue;
+  text-align: center;
+}
+
+.formHeader{
+  margin-left: 12px;
+}
+
+.add-contact{
+  font-size: initial;
+  font-weight: 500;
+  font-family: fantasy;
+  margin-left: 12px;
+}
